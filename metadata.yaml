@@ -1,0 +1,26 @@
+_repo: '-----_24079'
+_version: 0.1.0
+alternative_title: Shang Jie Xian Xing Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tianzhuisheng
+    alias: 天赘生
+    gutenberg_agent_id: '26236'
+    url: http://www.gutenberg.org/2009/agents/26236
+description: ''
+gutenberg_issued: '2007-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24079'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 商界現形記
+url: http://www.gutenberg.org/ebooks/24079
